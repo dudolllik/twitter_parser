@@ -4,7 +4,7 @@ Parser first 10 posts from Elon Musk's Twitter page and first 3 comments for eve
 
 ## Configurating 
 
-Fill in ~config.ini~ your autentification data
+Fill in ***config.ini*** your autentification data
 For example 
 ``` 
 [Proxy]
